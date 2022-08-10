@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+    height: 100vh;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 30px;
+}
+.numeros{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.botones{
+    
+    gap: 50px;
+}
+
